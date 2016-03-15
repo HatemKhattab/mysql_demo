@@ -27,4 +27,4 @@ def getCompanyOrgnr(company_name)
     puts 'No result please try again'
   end
 end
-getCompanyOrgnr("swedbank")
+getCompanyOrgnr("tokresurs")
